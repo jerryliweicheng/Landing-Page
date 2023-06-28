@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Li-Wei(Jerry)Cheng</h1>
 <h3 align="center">Data Scientist (Ex-Data Scientist Intern @IBM)</h3>
 
-- 🔭 I’m currently working on **an Object Detection project**
+- 🔭 I’m currently working on **Object Detection projects**
 
-- 🌱 I’m currently learning **Transfer Learning for the Healthcare industry**
+- 🌱 I’m currently learning **Transfer Learning for the healthcare industry**
 
 - 👯 I’m looking to collaborate on **any AI/ML applications**
 
-- 🤝 I’m looking for help with **Landing a Data Science/Data Analytics job**
+- 🤝 I’m looking for help with **landing a Data Science/Data Analytics job**
 
 - 💬 Ask me about **Machine Learning & Deep Learning**
 
